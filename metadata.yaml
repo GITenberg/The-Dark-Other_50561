@@ -1,4 +1,8 @@
 _repo: The-Dark-Other_50561
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50561-h/images/cover.jpg
 creator:
   author:
     agent_name: Weinbaum, Stanley Grauman
@@ -11,6 +15,8 @@ description: "The Dark Other is a horror novel by Stanley G. Weinbaum. It was fi
   \ published in 1950 by Fantasy Publishing Company, Inc. in an edition of 700 copies.\
   \ The manuscript, written in the 1920s, was originally titled The Mad Brain.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50561#The-Dark-Other
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
